@@ -1,0 +1,9 @@
+Microservices
+Kubernetes in VS Code
+Docker in VS Code
+MicroProfile Extension Pack for VS Code
+Quarkus Tools for VS Code
+Install Kubernetes Extension
+Install Docker Extension
+Install MicroProfile Extension Pack
+Install Quarkus Extension
